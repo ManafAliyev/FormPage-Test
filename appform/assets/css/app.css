@@ -1,0 +1,8 @@
+h1{
+    text-align: center;
+}
+ .container .accept{
+     background-color:royalblue;
+     width: 90px;
+     margin-inline: calc(600px);
+     }
